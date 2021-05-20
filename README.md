@@ -24,3 +24,7 @@
 ## 有趣的功能😎
 > TODO
 
+<!-- 
+    https://shields.io/
+    https://simpleicons.org/?q=core
+-->
